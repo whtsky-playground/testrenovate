@@ -1,0 +1,17 @@
+{
+  "name": "testrenovate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/react-common": "3.0.1",
+    "@apollo/react-components": "3.0.1",
+    "@apollo/react-hoc": "3.0.1",
+    "@apollo/react-hooks": "3.0.1"
+  }
+}
