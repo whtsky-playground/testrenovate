@@ -10,8 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "@apollo/react-common": "3.0.1",
-    "@apollo/react-components": "3.0.1",
-    "@apollo/react-hoc": "3.0.1",
-    "@apollo/react-hooks": "3.0.1"
+    "@apollo/react-components": "4.0.0",
+    "@apollo/react-hoc": "4.0.0",
+    "@apollo/react-hooks": "4.0.0"
   }
 }
